@@ -1,0 +1,30 @@
+#welcome {text-align: center; color:rgba(228, 228, 228, 0.659);}
+.body {background-image: url("images/money-tr.jpg"); background-size: cover;}
+
+.Login_frame {
+    background-color: rgba(6, 6, 6, 0.85);
+    border: 5px solid rgba(250, 252, 253, 0.683);
+    padding: 50px;
+    margin: 20px;
+    height: 450px;
+    width: 350px; margin: 0 auto;
+    margin-top: 50px;
+}
+.usr {
+    margin-bottom: 20px;
+    width: 270px;
+    height: 30px;
+    margin-left: -10px;
+    
+}
+.pass {
+    margin-bottom: 5px;
+    width: 270px;
+    height: 30px;
+    margin-left: -10px;
+    
+}
+
+.userbox{
+    margin-top: 50px;
+}
